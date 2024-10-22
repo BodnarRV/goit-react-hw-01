@@ -1,6 +1,6 @@
 import React from "react";
 import "./FriendList.css";
-import FriendListItem from "./FriendListItem/FriendListItem";
+import FriendListItem from "../FriendListItem/FriendListItem";
 
 export default function FriendList({ friends }) {
   return (
